@@ -1,0 +1,3 @@
+git log --oneline (shows all commits)
+git branch *name* (creates a new branch)
+git branch -a (shows all branches)
